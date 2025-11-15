@@ -1,17 +1,3 @@
-Here is a **clean, professional, GitHub-ready README.md** for your project.
-It explains:
-
-* The **problem** (crane load swing)
-* The **physics**
-* The **control approach**
-* The **idea of training an NN to tune Kp & Kd**
-* The **simulation + animation**
-* The **results & how to use the project**
-
-You can paste this directly into your repo’s `README.md`.
-
----
-
 # 🏗️ **Anti-Swing Crane Control using PD Controller + Neural Network Auto-Tuning**
 
 *A simulation + ML project to reduce load swing in cranes.*
